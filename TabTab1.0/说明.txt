@@ -1,0 +1,13 @@
+项目端口号： 8888
+localhost:8888
+
+1. Web文件夹下（视图层）：
+    （1）.admin为后端文件夹
+    （2）.client为前端文件夹
+    （3）. util :一些工具类，后面可能会复用
+
+
+2. src文件夹下：
+    （1）.controller：控制层
+        (a). CheckImages：随机生成验证码，其中@WebServlet要改地址，path路径要改成绝对路径。
+    （2）.模型层：包括entity, dao(数据访问层), biz（业务逻辑层）
