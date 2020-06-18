@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TabTab1.0:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf222850-2c1e-4941-8321-285c102dc1e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab1_0_war_exploded/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/classes/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/classes/META-INF/TabTab.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/classes/controller/CheckImages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/classes/util/JDBCUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/new_words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/css/my-login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/foot.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/QQ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/i1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/i2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/i3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/tabtab_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/tick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/weibo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/images/weixin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/js/my-login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/menu_search.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/client/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/TabTab_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/client/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Code\TabTab\TabTab\TabTab1.0\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1dRq8Im1CVclcBo68jlvZEU0j2u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/client" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\TabTab\TabTab\TabTab1.0\web\client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.561" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.561" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="TabTab1.0:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/TabTab1_0_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_561_TabTab1_0" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TabTab1.0:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf222850-2c1e-4941-8321-285c102dc1e1" name="Default Changelist" comment="" />
+      <created>1592398092998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592398092998</updated>
+      <workItem from="1592398094396" duration="2239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="128" width="814" height="729" key="#Intentions" timestamp="1592399614008">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="462" y="128" width="814" height="729" key="#Intentions/0.0.1739.939@0.0.1739.939" timestamp="1592399614008" />
+  </component>
+</project>
