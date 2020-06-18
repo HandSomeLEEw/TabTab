@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TabTab1.0:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TabTab1_0_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TabTab1.0/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TabTab1.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
